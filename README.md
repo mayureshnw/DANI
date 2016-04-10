@@ -2,6 +2,8 @@
 
 This repo is for the new project DANI
 
+#Current Test
+![Hand Representation](Test1.png)
 
 #To-Do
 
